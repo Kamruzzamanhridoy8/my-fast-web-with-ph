@@ -1,4 +1,3 @@
-
 body{
     background-image: url(../Images/top-banner.png);
     background-repeat: no-repeat;
@@ -34,13 +33,14 @@ body{
     color: white;
     text-decoration: none;
     padding: 10px 40px;
+    margin-top: 50px;
 }
 .fst-img img{
     height: 650px;
     margin-top: -130px;
     margin-left: 20%;
 }
-section{
+.flaxibale-section{
     display: flex;
 }
 .half-width{
@@ -48,3 +48,70 @@ section{
 }
 
 /* ---------------Fist section is done------------------*/
+.scnd-img img{
+    height: 650px;
+    margin-left: -100px;
+}
+.second-section{
+    margin-top: 100px;
+    background-image: url(../images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.scnd-section{
+    margin-left: -5%;
+}
+.second-button{
+    margin-left: 100px;
+    background-image: linear-gradient(45deg, lightsalmon,rgb(255, 80, 49));
+    border-radius: 5px;
+    font-size: 24px;
+    font-weight: 700px;
+    color: white;
+    text-decoration: none;
+    padding: 10px 40px;
+}
+
+/* ------------business section------------*/
+.business-section{
+    margin-bottom: 100px;
+}
+.oneplate{
+    font-size: 40px;
+}
+.more-op{
+    font-weight: bold;
+}
+.email-button{
+    background-image: linear-gradient(45deg, lightsalmon,rgb(255, 80, 49));
+    border-radius: 5px;
+    font-size: 24px;
+    font-weight: 700px;
+    color: white;
+    text-decoration: none;
+    padding: 3px 20px;
+}
+.business-item{
+    box-shadow: 10px 40px 60px gray;
+    width: 40%;
+    height: 320px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+.motherofbusiness-child{
+    background-image: url(../images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.oneplate-border-box{
+    border-left: solid 7px #FF6347;
+}
+.okcut-border-box{
+    border-left: solid 7px blue;
+}
+.head-business{
+    font-size: 50px;
+    margin-left: 60px;
+    margin-bottom: 50px;
+}
