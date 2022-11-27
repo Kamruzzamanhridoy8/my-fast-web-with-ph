@@ -2,15 +2,18 @@ body{
     background-image: url(../Images/top-banner.png);
     background-repeat: no-repeat;
     font-family: 'poppins',sans-serif;
-
+}
+a{
+    text-decoration: none;
+    color: black;
 }
 .welcome{
     margin-left: 100px;
     font-size: 50px;
     margin-top: 40px;
 }
-.Myname{
-    color:orange;
+.Myname a{
+    color:orange !important;
     margin-top: 30px;
 }
 .about-self{
@@ -112,6 +115,9 @@ body{
 }
 .head-business{
     font-size: 50px;
-    margin-left: 60px;
+    margin-left: 70px;
     margin-bottom: 50px;
+}
+.copyright{
+    text-align: center;
 }
