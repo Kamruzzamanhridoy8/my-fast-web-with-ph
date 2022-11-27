@@ -121,3 +121,34 @@ a{
 .copyright{
     text-align: center;
 }
+.fa-brands{
+    font-size: 20px;
+    margin: 5px;
+    
+}
+.favicon{
+    margin-bottom: 30px;
+    margin-left: 43%;
+    margin-right: 20%;
+}
+.fa-facebook:hover{
+    color: #0A81EC;
+}
+.fa-telegram:hover{
+    color: #2CA5E5;
+}
+.fa-instagram:hover{
+    color: #E31F60;
+}
+.fa-twitter:hover{
+    color: #1DA1F2;
+}
+.fa-github:hover{
+    color: rgb(131, 126, 126);
+}
+.fa-whatsapp:hover{
+    color: #4BC959;
+}
+.fa-linkedin-in:hover{
+    color: #0174B2;
+}
