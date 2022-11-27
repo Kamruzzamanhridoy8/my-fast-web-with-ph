@@ -128,7 +128,7 @@ a{
 }
 .favicon{
     margin-bottom: 30px;
-    margin-left: 43%;
+    margin-left: 41.3%;
     margin-right: 20%;
 }
 .fa-facebook:hover{
@@ -151,4 +151,11 @@ a{
 }
 .fa-linkedin-in:hover{
     color: #0174B2;
+}
+.fa-solid{
+    font-size: 20px;
+    margin: 5px;
+}
+.fa-solid:hover{
+    color: #EE3C3C;
 }
